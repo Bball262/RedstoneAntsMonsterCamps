@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "redsmonstercamps:block/monster_camp_chest"
+    },
+    "facing=east": {
+      "model": "redsmonstercamps:block/monster_camp_chest"
+    },
+    "facing=south": {
+      "model": "redsmonstercamps:block/monster_camp_chest"
+    },
+    "facing=west": {
+      "model": "redsmonstercamps:block/monster_camp_chest"
+    }
+  }
+}
